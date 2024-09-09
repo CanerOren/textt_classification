@@ -1,0 +1,111 @@
+Evaluation Metrics:
+Folds:	1
+              precision    recall  f1-score   support
+
+        Nötr       0.69      0.34      0.46        96
+      Olumlu       0.74      0.42      0.54        76
+     Olumsuz       0.57      0.92      0.70       129
+
+    accuracy                           0.61       301
+   macro avg       0.67      0.56      0.57       301
+weighted avg       0.65      0.61      0.58       301
+
+Folds:	2
+              precision    recall  f1-score   support
+
+        Nötr       0.69      0.39      0.50        95
+      Olumlu       0.72      0.38      0.50        76
+     Olumsuz       0.57      0.91      0.70       129
+
+    accuracy                           0.61       300
+   macro avg       0.66      0.56      0.57       300
+weighted avg       0.65      0.61      0.59       300
+
+Folds:	3
+              precision    recall  f1-score   support
+
+        Nötr       0.69      0.44      0.54        95
+      Olumlu       0.70      0.37      0.48        76
+     Olumsuz       0.58      0.90      0.71       129
+
+    accuracy                           0.62       300
+   macro avg       0.66      0.57      0.58       300
+weighted avg       0.65      0.62      0.60       300
+
+Folds:	4
+              precision    recall  f1-score   support
+
+        Nötr       0.65      0.32      0.43        96
+      Olumlu       0.66      0.30      0.41        76
+     Olumsuz       0.57      0.96      0.71       128
+
+    accuracy                           0.59       300
+   macro avg       0.62      0.53      0.52       300
+weighted avg       0.61      0.59      0.55       300
+
+Folds:	5
+              precision    recall  f1-score   support
+
+        Nötr       0.70      0.40      0.51        96
+      Olumlu       0.65      0.37      0.47        76
+     Olumsuz       0.59      0.93      0.72       128
+
+    accuracy                           0.62       300
+   macro avg       0.65      0.56      0.57       300
+weighted avg       0.64      0.62      0.59       300
+
+Folds:	6
+              precision    recall  f1-score   support
+
+        Nötr       0.74      0.35      0.48        96
+      Olumlu       0.89      0.32      0.47        76
+     Olumsuz       0.56      0.98      0.71       128
+
+    accuracy                           0.61       300
+   macro avg       0.73      0.55      0.55       300
+weighted avg       0.70      0.61      0.57       300
+
+Folds:	7
+              precision    recall  f1-score   support
+
+        Nötr       0.67      0.38      0.48        96
+      Olumlu       0.72      0.37      0.49        75
+     Olumsuz       0.58      0.94      0.72       129
+
+    accuracy                           0.62       300
+   macro avg       0.66      0.56      0.56       300
+weighted avg       0.64      0.62      0.59       300
+
+Folds:	8
+              precision    recall  f1-score   support
+
+        Nötr       0.69      0.42      0.52        96
+      Olumlu       0.54      0.35      0.42        75
+     Olumsuz       0.59      0.89      0.71       129
+
+    accuracy                           0.60       300
+   macro avg       0.61      0.55      0.55       300
+weighted avg       0.61      0.60      0.58       300
+
+Folds:	9
+              precision    recall  f1-score   support
+
+        Nötr       0.65      0.32      0.43        96
+      Olumlu       0.73      0.32      0.44        75
+     Olumsuz       0.56      0.95      0.70       129
+
+    accuracy                           0.59       300
+   macro avg       0.64      0.53      0.53       300
+weighted avg       0.63      0.59      0.55       300
+
+Folds:	10
+              precision    recall  f1-score   support
+
+        Nötr       0.77      0.35      0.49        96
+      Olumlu       0.70      0.40      0.51        75
+     Olumsuz       0.57      0.95      0.71       129
+
+    accuracy                           0.62       300
+   macro avg       0.68      0.57      0.57       300
+weighted avg       0.67      0.62      0.59       300
+
